@@ -119,7 +119,7 @@ Clone this repository to your desired folder:
 
 ```sh
   cd my-folder
-  git clone https://github.com/Vaniskemunto/ecosystem/tree/Elias
+  git clone https://github.com/OngomaElias/Indian-Startup-Ecosystem
 ```
 
 Change into the cloned repository
@@ -172,9 +172,9 @@ To run the project, execute the following command:
 
 🕵🏽‍♀️ **Elias Ongoma**
 
-- GitHub: [GitHub Profile](https://github.com/coderacheal)
-- Twitter: [Twitter Handle](https://twitter.com/racheal_kubi)
-- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/racheal-appiah-kubi/)
+- GitHub: [GitHub Profile](https://github.com/OngomaElias/Indian-Startup-Ecosystem)
+- Medium: [Medium-Article](https://medium.com/@ongomaelias/indian-startup-ecosystem-a-data-visualization-approach-to-understanding-the-effect-of-finance-809699a0af8a)
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
